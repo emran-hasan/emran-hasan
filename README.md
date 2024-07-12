@@ -1,7 +1,7 @@
 
 # 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 Md. Emran Hasan 👋
 
-I'm a Aspiring Trainee Software Quality Assurance Engineer with a Bachelor's degree in CSE.  I am continuously learning new technologies. Also I have knowlwdge about Computer Hardware Engineer and web Development.
+I'm a Aspiring Trainee Software Quality Assurance Engineer with a Bachelor's degree in CSE.  I am continuously learning new technologies. Also I have knowlwdge about Computer Hardware Engineer and Basic Web Application Development.
 
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 ![Animated GIF](https://example.com/animated.gif)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahamudulhasan.me)
