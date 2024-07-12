@@ -1,5 +1,5 @@
 
-# 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 Md. Emran Hasan 👋
+# 𝐇𝐞𝐲, 𝐈'𝐦 Md. Emran Hasan 👋
 
 I'm a Aspiring Trainee Software Quality Assurance Engineer with a Bachelor's degree in CSE.  I am continuously learning new technologies. Also I have knowlwdge about Computer Hardware Engineer and Basic Web Application Development.
 
